@@ -1,0 +1,165 @@
+Country,1990,2000,2015,Lat,Long,Region
+Algeria,216,170,140,28,3,Africa
+Angola,1160,924,477,-12.5,18.5,Africa
+Benin,576,572,405,9.5,2.2,Africa
+Botswana,243,311,129,-22,24,Africa
+Burkina Faso,727,547,371,13,-2,Africa
+Burundi,1220,954,712,-3.5,30,Africa
+Cameroon,728,750,596,6,12,Africa
+Central African Republic,1290,1200,882,7,21,Africa
+Chad,1450,1370,856,15,19,Africa
+Comoros,635,499,335,-12.2,44.2,Africa
+Congo,603,653,442,-1,15,Africa
+C’‚te d'Ivoire,745,671,645,8,-5,Africa
+Equatorial Guinea,1310,702,342,2,10,Africa
+Eritrea,1590,733,501,15,39,Africa
+Ethiopia,1250,897,353,8,38,Africa
+Gabon,422,405,291,-1,11.8,Africa
+Gambia,1030,887,706,13.5,-16.6,Africa
+Ghana,634,467,319,8,-2,Africa
+Guinea,1040,976,679,11,-10,Africa
+Guinea-Bissau,907,800,549,12,-15,Africa
+Kenya,687,759,510,1,38,Africa
+Lesotho,629,649,487,-29.5,28.5,Africa
+Liberia,1500,1270,725,6.5,-9.5,Africa
+Madagascar,778,536,353,-20,47,Africa
+Malawi,957,890,634,-13.5,34,Africa
+Mali,1010,834,587,17,-4,Africa
+Mauritania,859,813,602,20,-12,Africa
+Mauritius,81,40,53,-20.3,57.5,Africa
+Mozambique,1390,915,489,-18.2,35,Africa
+Namibia,338,352,265,-22,17,Africa
+Niger,873,794,553,16,8,Africa
+Nigeria,1350,1170,814,10,8,Africa
+Rwanda,1300,1020,290,-2,30,Africa
+Sao Tome and Principe,330,222,156,1,7,Africa
+Senegal,540,488,315,14,-14,Africa
+Sierra Leone,2630,2650,1360,8.5,-11.5,Africa
+South Africa,108,85,138,-29,24,Africa
+Togo,568,491,368,8,1.2,Africa
+Uganda,687,620,343,1,32,Africa
+Zambia,577,541,224,-15,30,Africa
+Zimbabwe,440,590,443,-20,30,Africa
+Argentina,72,60,52,-34,-64,Americas
+Bahamas,46,61,80,24.2,-76,Americas
+Barbados,58,48,27,13.2,-59.5,Americas
+Belize,54,53,28,17.2,-88.8,Americas
+Brazil,104,66,44,-10,-55,Americas
+Canada,7,9,7,60,-95,Americas
+Chile,57,31,22,-30,-71,Americas
+Colombia,118,97,64,4,-72,Americas
+Costa Rica,43,38,25,10,-84,Americas
+Cuba,58,43,39,21.5,-80,Americas
+Dominican Republic,198,79,92,19,-70.7,Americas
+Ecuador,185,103,64,-2,-77.5,Americas
+El Salvador,157,84,54,13.8,-88.9,Americas
+Grenada,41,29,27,12.1,-61.7,Americas
+Guatemala,205,178,88,15.5,-90.2,Americas
+Guyana,171,210,229,5,-59,Americas
+Haiti,625,505,359,19,-72.4,Americas
+Honduras,272,133,129,15,-86.5,Americas
+Jamaica,79,89,89,18.2,-77.5,Americas
+Mexico,90,77,38,23,-102,Americas
+Nicaragua,173,202,150,13,-85,Americas
+Panama,102,82,94,9,-80,Americas
+Paraguay,150,158,132,-23,-58,Americas
+Peru,251,140,68,-10,-76,Americas
+Saint Lucia,45,54,48,13.9,-61.1,Americas
+Saint Vincent and the Grenadines,58,74,45,13.2,-61.2,Americas
+Suriname,127,259,155,4,-56,Americas
+Trinidad and Tobago,90,62,63,11,-61,Americas
+Uruguay,37,31,15,-33,-56,Americas
+Afghanistan,1340,1100,396,33,65,Eastern Mediterranean
+Bahrain,26,21,15,26,50.5,Eastern Mediterranean
+Djibouti,517,401,229,11.5,43,Eastern Mediterranean
+Egypt,106,63,33,27,30,Eastern Mediterranean
+Iraq,107,63,50,33,44,Eastern Mediterranean
+Jordan,110,77,58,31,36,Eastern Mediterranean
+Kuwait,7,7,4,29.3,47.7,Eastern Mediterranean
+Lebanon,74,42,15,33.8,35.8,Eastern Mediterranean
+Morocco,317,221,121,32,-5,Eastern Mediterranean
+Oman,30,20,17,21,57,Eastern Mediterranean
+Pakistan,431,306,178,30,70,Eastern Mediterranean
+Qatar,29,24,13,25.5,51.2,Eastern Mediterranean
+Saudi Arabia,46,23,12,25,45,Eastern Mediterranean
+Somalia,1210,1080,732,10,49,Eastern Mediterranean
+Sudan,744,544,311,15,30,Eastern Mediterranean
+Syrian Arab Republic,123,73,68,35,38,Eastern Mediterranean
+Tunisia,131,84,62,34,9,Eastern Mediterranean
+United Arab Emirates,17,8,6,24,54,Eastern Mediterranean
+Yemen,547,440,385,15,48,Eastern Mediterranean
+Albania,71,43,29,41,20,Europe
+Armenia,58,40,25,40,45,Europe
+Austria,8,5,4,47.3,13.3,Europe
+Azerbaijan,64,48,25,40.5,47.5,Europe
+Belarus,33,26,4,53,28,Europe
+Belgium,9,9,7,50.8,4,Europe
+Bosnia and Herzegovina,28,17,11,44,18,Europe
+Bulgaria,25,21,11,43,25,Europe
+Croatia,10,11,8,45.2,15.5,Europe
+Cyprus,16,15,7,35,33,Europe
+Denmark,11,9,6,56,10,Europe
+Estonia,42,26,9,59,26,Europe
+Finland,6,5,3,64,26,Europe
+France,15,12,8,46,2,Europe
+Georgia,34,37,36,42,43.5,Europe
+Germany,11,8,6,51,9,Europe
+Greece,5,4,3,39,22,Europe
+Hungary,24,15,17,47,20,Europe
+Iceland,7,5,3,65,-18,Europe
+Ireland,11,9,8,53,-8,Europe
+Israel,11,8,5,31.5,34.8,Europe
+Italy,8,5,4,42.8,12.8,Europe
+Kazakhstan,78,65,12,48,68,Europe
+Kyrgyzstan,80,74,76,41,75,Europe
+Latvia,48,30,18,57,25,Europe
+Lithuania,29,16,10,56,24,Europe
+Luxembourg,12,13,10,49.8,6.2,Europe
+Malta,13,15,9,35.8,14.6,Europe
+Montenegro,10,11,7,42,19,Europe
+Netherlands,12,14,7,52.5,5.8,Europe
+Norway,7,7,5,62,10,Europe
+Poland,17,8,3,52,20,Europe
+Portugal,17,13,10,39.5,-8,Europe
+Romania,124,51,31,46,25,Europe
+Russian Federation,63,57,25,60,100,Europe
+Serbia,14,17,17,44,21,Europe
+Slovakia,11,8,6,48.7,19.5,Europe
+Slovenia,12,12,9,46,15,Europe
+Spain,6,5,5,40,-4,Europe
+Sweden,8,5,4,62,15,Europe
+Switzerland,8,7,5,47,8,Europe
+Tajikistan,107,68,32,39,71,Europe
+Turkey,97,79,16,39,35,Europe
+Turkmenistan,82,59,42,40,60,Europe
+Ukraine,46,34,24,49,32,Europe
+Uzbekistan,54,34,36,41,64,Europe
+Bangladesh,569,399,176,24,90,South-East Asia
+Bhutan,945,423,148,27.5,90.5,South-East Asia
+India,556,374,174,20,77,South-East Asia
+Indonesia,446,265,126,-5,120,South-East Asia
+Maldives,677,163,68,3.2,73,South-East Asia
+Myanmar,453,308,178,22,98,South-East Asia
+Nepal,901,548,258,28,84,South-East Asia
+Sri Lanka,75,57,30,7,81,South-East Asia
+Thailand,40,25,20,15,100,South-East Asia
+Timor-Leste,1080,694,215,-8.6,125.5,South-East Asia
+Australia,8,9,6,-27,133,Western Pacific
+Brunei Darussalam,35,31,23,4.5,114.7,Western Pacific
+Cambodia,1020,484,161,13,105,Western Pacific
+China,97,58,27,35,105,Western Pacific
+Fiji,63,42,30,-18,175,Western Pacific
+Japan,14,10,5,36,138,Western Pacific
+Kiribati,234,166,90,1.4,173,Western Pacific
+Lao People's Democratic Republic,905,546,197,18,105,Western Pacific
+Malaysia,79,58,40,2.5,112.5,Western Pacific
+Mongolia,186,161,44,46,105,Western Pacific
+New Zealand,18,12,11,-41,174,Western Pacific
+Papua New Guinea,470,342,215,-6,147,Western Pacific
+Philippines,152,124,114,13,122,Western Pacific
+Samoa,156,93,51,-13.6,-172.3,Western Pacific
+Singapore,12,18,10,1.4,103.8,Western Pacific
+Solomon Islands,364,214,114,-8,159,Western Pacific
+Tonga,75,97,124,-20,-175,Western Pacific
+Vanuatu,225,144,78,-16,167,Western Pacific
+Viet Nam,139,81,54,16,106,Western Pacific
